@@ -1,6 +1,7 @@
 # Welcome to My Programming Portfolio! 
 
 ## Programming 101 Midterm: Adventure Game
+![Screenshot 2022-04-13 174545](https://user-images.githubusercontent.com/101207838/163282155-65e82d3b-72a8-41f2-b3b6-e5d5d937aeb2.jpg)
 
 ## Tip Calculator 
 
